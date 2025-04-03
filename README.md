@@ -3,7 +3,7 @@
 > 更新日期：2025/04/04      
 
 国内体验使用 [**ChatGPT 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 GPT-4、4o、o1 和本地化功能**   
-本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，包括国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.ai)推荐和使用教程，帮助快速上手 **ChatGPT** ~
+本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，包括国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro)推荐和使用教程，帮助快速上手 **ChatGPT** ~
 
 ---
 
@@ -28,7 +28,7 @@
    - **功能亮点**：支持 AI 绘画、AI 助手、AI 插件、AI思维导图、AI PPT 等
    - **综合评分**：⭐⭐⭐⭐⭐
 
-2. **蓝鲸AI ([chat.lanjing.ai](https://chat.lanjing.ai))**
+2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro))**
    - **支持版本**：GPT-4, GPT-4o, o1, o3, DeepSeek R1, Claude 3.7 sonnet, Grok 3
    - **功能亮点**：先进大模型，ChatGPT、Claude、Grok、DeepSeek
    - **综合评分**：⭐⭐⭐
