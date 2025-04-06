@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年4月更新】
 
-> 更新日期：2025/04/06         
+> 更新日期：2025/04/07         
 
 国内体验使用 [**ChatGPT 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 GPT-4、4o、o1 和本地化功能**   
 本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，包括国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro)推荐和使用教程，帮助快速上手 **ChatGPT** ~
