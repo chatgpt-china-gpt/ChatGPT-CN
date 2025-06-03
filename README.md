@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年5月更新】
+# ChatGPT 中文版：国内访问指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年6月更新】
 
-> 更新日期：2025/05/22       
+> 更新日期：2025/06/05       
 
 国内体验使用 [**ChatGPT 中文版**](https://chat.lanjing.pro)，**无需翻墙**，**支持 GPT-4、4o、o1 和本地化功能**   
 本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，包括国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com)推荐和使用教程，帮助快速上手 **ChatGPT** ~
@@ -9,7 +9,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**ChatGPT 中文版**是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的AI对话。  
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的AI对话。  
 
 与官网相比，**ChatGPT 中文版**在以下方面更适合国内用户：
 
@@ -72,7 +72,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**）。
+1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro))**）。
 2. **扫码使用**：扫码登录，进入聊天页，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 GPT-4 或 GPT-3.5。
 4. **开始对话**：畅享中文聊天体验，支持写作、编程、翻译、办公等功能。
